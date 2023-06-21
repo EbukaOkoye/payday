@@ -1,0 +1,12 @@
+@media (max-width: 767px) {
+  .bg-responsive {
+    background-size: contain;
+    background-position: left;
+  }
+
+  .btn {
+    font-size: 12px;
+  }
+
+}
+
